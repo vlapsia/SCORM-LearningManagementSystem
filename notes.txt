@@ -1,1 +1,3 @@
 https://reachmnadeem.wordpress.com/2019/03/17/implementing-scorm-player/
+https://pipwerks.com/
+https://github.com/pipwerks/scorm-api-wrapper
